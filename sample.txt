@@ -1,4 +1,7 @@
 hi likith shetty
 
 hello kBDCHJJQHVSDXG
+<<<<<<< HEAD
 new line added
+=======
+>>>>>>> cfce8461401052b8131865593fb698a7a7bad41b
